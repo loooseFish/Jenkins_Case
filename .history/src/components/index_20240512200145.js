@@ -1,0 +1,1 @@
+import message from "./messageBox/message.vue";
